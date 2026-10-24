@@ -42,4 +42,3 @@ Open to conversations about detection engineering, security automation, and the 
 
 ---
 
-<p align="center"><sub><i>"Build in public. Ship small. Compare to last-year-you, not to LinkedIn."</i></sub></p>
