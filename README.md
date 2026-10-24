@@ -38,7 +38,7 @@
 
 Open to conversations about detection engineering, security automation, and the SOC → security engineer transition.
 
-[LinkedIn](https://www.linkedin.com/in/joe-castro-/)) · [Email]()
+[LinkedIn](https://www.linkedin.com/in/joe-castro-/) · [Email]()
 
 ---
 
