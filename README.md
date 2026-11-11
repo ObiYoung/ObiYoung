@@ -18,7 +18,7 @@
 - **Detection-as-code** — Sigma + KQL rules, validated with Atomic Red Team
 - **A Terraform-provisioned Azure detection lab** — reproducible with `terraform apply`, published as I go
 
-### 🚧 Currently
+### 🚧 Currently working on
 
 - 📍 Ramping into Azure + Terraform in the open — see [`az-ramp`](https://github.com/ObiYoung/az-ramp)
 - ✍️ First blog post incoming: *"What a SOC analyst needs to know about Azure"*
